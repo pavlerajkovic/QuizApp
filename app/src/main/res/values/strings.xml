@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="logo_quiz">Logo Quiz</string>
+    <string name="music_quiz">Music Quiz</string>
+    <string name="question_one">What are the 7 types of logos?</string>
+    <string name="question_two">Which type of logo is the easiest to make?</string>
+    <string name="question_three">Which cognitive events does an effective logo trigger?</string>
+
+    <string name="title_music">How Music Works</string>
+    <string name="question_one_music">1. The two most common clefs are:</string>
+    <string name="question_two_music">2. What is the musical term for the gap between notes that
+                                    are immediately next to each other on the keyboard?</string>
+    <string name="question_three_music">3. To play music, you need to understand:</string>
+    <string name="question_four_music">4. Select the longest lasting note.</string>
+    <string-array name="notes">
+        <item>Minim</item>
+        <item>Semiquaver</item>
+        <item>Semibreve</item>
+        <item>Quaver</item>
+        <item>Crotchet</item>
+    </string-array>
+    <string name="question_five_music">5. Two or more consecutive quavers can be joined together
+                                            with a thick line called a beam.</string>
+    <string name="question_six_music">6. How many black keys are there in one octave?</string>
+</resources>
